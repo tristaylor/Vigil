@@ -1,4 +1,3 @@
-# Vigil
 # 🫀 Vigil
 ### *Because someone should always know.*
 
