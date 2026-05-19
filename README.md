@@ -125,4 +125,4 @@ And honestly — the thing I'm most proud of is that this is a real story. Not a
 
 ---
 
-Built by Lilly · [#BuiltWithMeDo](https://medo.devpost.com) · Build with MeDo Hackathon 2026
+Built by Tris · [#BuiltWithMeDo](https://medo.devpost.com) · Build with MeDo Hackathon 2026
